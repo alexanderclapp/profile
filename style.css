@@ -80,9 +80,9 @@ a:hover {
 
 .list-inline {
   padding-left: 0px;
-  align-content: left;
-  text-align: left;
-  list-style-position: left;
+  align-content: center;
+  text-align: center;
+  list-style-position: center;
 }
 
 .card td {
